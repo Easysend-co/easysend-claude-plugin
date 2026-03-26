@@ -1,0 +1,9 @@
+{
+    "mcpServers": {
+        "easysend": {
+            "command": "npx",
+            "args": ["-y", "easysend-mcp"],
+            "env": {}
+        }
+    }
+}

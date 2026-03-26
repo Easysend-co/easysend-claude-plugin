@@ -1,0 +1,36 @@
+{
+    "name": "easysend",
+    "version": "1.0.0",
+    "description": "Upload, share, and transfer files instantly. Drag-drop file sharing with encryption, no signup required.",
+    "author": {
+        "name": "EasySend",
+        "email": "support@easysend.co"
+    },
+    "homepage": "https://easysend.co",
+    "repository": "https://github.com/easysend/easysend-claude-plugin",
+    "license": "MIT",
+    "keywords": [
+        "file-sharing",
+        "fileshare",
+        "storage",
+        "upload",
+        "download",
+        "file-transfer",
+        "send-files",
+        "share-files",
+        "cloud-storage",
+        "file-upload",
+        "file-hosting",
+        "transfer",
+        "encrypted-file-sharing",
+        "wetransfer-alternative",
+        "dropbox-alternative",
+        "file-send",
+        "share-link",
+        "quick-share",
+        "no-signup",
+        "free-file-sharing",
+        "mcp",
+        "file-management"
+    ]
+}
